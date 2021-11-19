@@ -1,0 +1,3 @@
+[submodule "content/blendercourse"]
+	path = content/blendercourse
+	url = https://github.com/benshurts/blendercourse.git
